@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "name": "font",
+  "repo": "tomato-fe/font",
+  "description": "a tomato iconfont ",
+  "main": "iconfont.css",
+  "fonts": [
+    "iconfont.eot",
+    "iconfont.svg",
+    "iconfont.ttf",
+    "iconfont.woff"
+  ]
+}
